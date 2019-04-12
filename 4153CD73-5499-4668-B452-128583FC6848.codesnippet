@@ -3,21 +3,19 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>weak</string>
+	<string>ppp</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>ClassInterfaceMethods</string>
+		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@property (nonatomic, weak) &lt;#type#&gt;  *&lt;#name#&gt;;</string>
+	<string>#pragma mark - &lt;#Label#&gt;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>019A9B5E-3CBD-4BEE-A921-F4C086057F2F</string>
+	<string>4153CD73-5499-4668-B452-128583FC6848</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
-	<key>IDECodeSnippetSummary</key>
-	<string>hw</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>weak</string>
+	<string>ELC Pragma mark</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
